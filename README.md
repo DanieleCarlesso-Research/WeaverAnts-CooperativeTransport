@@ -7,6 +7,7 @@ This repository contains R code and datasets used for analyses in the paper:
 by Daniele Carlesso, Madelyne Stewardson,Simon Garnier, Ofer Feinerman and Chris. R. Reid.
 
 ```
+✓ Download Archive.7z and extract files
 ✓	Ensure that all files are in the same folder for the code to run properly.
 ✓	The repository also includes a summary HTML file for easier visualisation.
 ```
