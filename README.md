@@ -1,4 +1,4 @@
-# WeaverAnts-CooperativeTransport
+# Leaderless consensus decision-making determines cooperative transport direction in weaver ants
 
 This repository contains R code and datasets used for analyses in the paper:
 
@@ -6,8 +6,10 @@ This repository contains R code and datasets used for analyses in the paper:
 
 by Daniele Carlesso, Madelyne Stewardson,Simon Garnier, Ofer Feinerman and Chris. R. Reid.
 
+```
 ✓	Ensure that all files are in the same folder for the code to run properly.
-✓	the repository also includes a summary HTML file for easier visualisation.
+✓	The repository also includes a summary HTML file for easier visualisation.
+```
 
 Datasets:
 
